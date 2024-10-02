@@ -1,6 +1,6 @@
 # listas-
 Castruita Soto Emmanuel 3w
-# Crear una lista de números del 1 al 5
+#Crear una lista de números del 1 al 5
 print("")
 print("castruita soto emmanuel")
 print("")
